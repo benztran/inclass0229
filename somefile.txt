@@ -1,5 +1,8 @@
 init ab
 c
 d
+<<<<<<< HEAD
 e
 error when reverting
+=======
+>>>>>>> parent of 09fb046 (e)
